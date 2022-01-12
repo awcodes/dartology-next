@@ -1,3 +1,148 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+html,
+body,
+#__next {
+  @apply h-full bg-gray-900 text-white font-sans;
+}
+
+@layer base {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply text-gray-300 font-bold leading-tight mb-1;
+  }
+
+  h1 {
+    @apply text-2xl;
+  }
+
+  h2 {
+    @apply text-xl text-primary-500;
+  }
+
+  h3 {
+    @apply text-lg text-primary-500;
+  }
+
+  h4 {
+    @apply text-lg text-primary-500;
+  }
+
+  p {
+    @apply mb-4;
+  }
+
+  p:last-of-type {
+    @apply mb-0;
+  }
+
+  a:not(.reset-link) {
+    @apply text-secondary-500 underline;
+  }
+
+  a:not(.reset-link):hover,
+  a:not(.reset-link):focus {
+    @apply text-secondary-700;
+  }
+
+  a.btn {
+    @apply no-underline;
+  }
+
+  @screen md {
+    h1 {
+      @apply text-3xl;
+    }
+
+    h2 {
+      @apply text-2xl;
+    }
+
+    h3 {
+      @apply text-xl;
+    }
+
+    h4 {
+      @apply text-lg;
+    }
+  }
+}
+
+@layer components {
+  .btn {
+    @apply flex items-center justify-center border-2 border-primary-500 text-primary-500 font-medium bg-primary-500 bg-opacity-10 py-2 px-4 rounded-full;
+  }
+
+  .btn:hover,
+  .btn:focus {
+    @apply bg-primary-800 text-primary-300;
+  }
+
+  .btn:active {
+    @apply border-primary-500 text-primary-500 bg-primary-500 bg-opacity-10;
+  }
+
+  .btn[disabled] {
+    @apply opacity-20;
+  }
+
+  .btn.secondary {
+    @apply border-secondary-500 text-secondary-500 bg-secondary-500 bg-opacity-10;
+  }
+
+  .btn.secondary:hover,
+  .btn.secondary:focus {
+    @apply bg-secondary-800 text-secondary-300;
+  }
+
+  .btn.secondary:active {
+    @apply border-secondary-500 text-secondary-500 bg-secondary-500 bg-opacity-10;
+  }
+
+  .btn.tertiary {
+    @apply border-tertiary-500 text-tertiary-500 bg-tertiary-500 bg-opacity-10;
+  }
+
+  .btn.tertiary:hover,
+  .btn.tertiary:focus {
+    @apply bg-tertiary-800 text-tertiary-300;
+  }
+
+  .btn.tertiary:active {
+    @apply border-tertiary-500 text-tertiary-500 bg-tertiary-500 bg-opacity-10;
+  }
+
+  .btn.accent {
+    @apply border-accent-500 text-accent-500 bg-accent-500 bg-opacity-10;
+  }
+
+  .btn.accent:hover,
+  .btn.accent:focus {
+    @apply bg-accent-800 text-accent-300;
+  }
+
+  .btn.accent:active {
+    @apply border-accent-500 text-accent-500 bg-accent-500 bg-opacity-10;
+  }
+
+  .btn.link {
+    @apply text-secondary-500 underline p-0 m-0 border-none bg-transparent inline font-normal;
+  }
+
+  .btn.link:hover,
+  .btn.link:focus {
+    @apply text-secondary-700;
+  }
+}
+
+@layer utilities {
+  .svg-drop-shadow {
+    filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));
+  }
+}

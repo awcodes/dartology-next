@@ -1,0 +1,1185 @@
+[
+    {
+        "out": 170,
+        "primary": "T20, T20, DB",
+        "secondary": "",
+        "tertiary": "",
+        "details": "This is the big boy on the block. There's only one way to do it. Just make sure you get below 159 on this one. There's only 6 outs between 170 and 158, so if you end up on 169, 168, 166, 165, 163, 162 or 159, you've given your oppenent a guaranteed 6 more darts to try beat you."
+    },
+    {
+        "out": 169,
+        "primary": "",
+        "secondary": "",
+        "tertiary": "",
+        "details": "Trick question! There's no way to take this one out with 3 darts. Maybe your opponent will let you borrow a dart or two."
+    },
+    {
+        "out": 168,
+        "primary": "",
+        "secondary": "",
+        "tertiary": "",
+        "details": "Trick question! There's no way to take this one out with 3 darts. Maybe your opponent will let you borrow a dart or two."
+    },
+    {
+        "out": 167,
+        "primary": "T20, T19, DB",
+        "secondary": "",
+        "tertiary": "",
+        "details": "There's only one way to do it. Just make sure you get below 159 on this one. There's only 4 outs between 167 and 158, so if you end up on 166, 165, 163, 162 or 159, you've given your oppenent a guaranteed 6 more darts to try beat you."
+    },
+    {
+        "out": 166,
+        "primary": "",
+        "secondary": "",
+        "tertiary": "",
+        "details": "Trick question! There's no way to take this one out with 3 darts. Maybe your opponent will let you borrow a dart or two."
+    },
+    {
+        "out": 165,
+        "primary": "",
+        "secondary": "",
+        "tertiary": "",
+        "details": "Trick question! There's no way to take this one out with 3 darts. Maybe your opponent will let you borrow a dart or two."
+    },
+    {
+        "out": 164,
+        "primary": "T19, T19, DB",
+        "secondary": "T20, T18, DB",
+        "tertiary": "",
+        "details": "This out has often be debated over. The T19 route gives you 2 darts at the same target, which most players prefer, but if you're more comfortable on the 20s and 18s then feel free to do so. Either way you still have to hit the Double Bull to take this one out."
+    },
+    {
+        "out": 163,
+        "primary": "",
+        "secondary": "",
+        "tertiary": "",
+        "details": "Trick question! There's no way to take this one out with 3 darts. Maybe your opponent will let you borrow a dart or two."
+    },
+    {
+        "out": 162,
+        "primary": "",
+        "secondary": "",
+        "tertiary": "",
+        "details": "Trick question! There's no way to take this one out with 3 darts. Maybe your opponent will let you borrow a dart or two."
+    },
+    {
+        "out": 161,
+        "primary": "T20, T17, DB",
+        "secondary": "",
+        "tertiary": "",
+        "details": "This is the only way to take this one out, but you could start with the T17 instead of the T20. Neither is better than the other. It's up to personal preference on this one."
+    },
+    {
+        "out": 160,
+        "primary": "T20, T20, D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": "This is a great out. Some prefer it to the 170 since you get to stay on the same number."
+    },
+    {
+        "out": 159,
+        "primary": "",
+        "secondary": "",
+        "tertiary": "",
+        "details": "Trick question! There's no way to take this one out with 3 darts. Maybe your opponent will let you borrow a dart or two."
+    },
+    {
+        "out": 158,
+        "primary": "T20, T20, D19",
+        "secondary": "T18, T18, DB",
+        "tertiary": "",
+        "details": "This is one that could be argued either way. Both first darts are at the same target, which is always good, but it's better to go for a D19 over a DB out, despite it being an odd double, simply because it is a bigger target. A 5 count on the 20s leaves you at a nice 58 left vs. a 5 count on the 18s which leaves you an 86 out. Remember, the goal on these larger outs is to get under 70 for a nice 2 dart out that doesn't require a triple."
+    },
+    {
+        "out": 157,
+        "primary": "T20, T19, D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 156,
+        "primary": "T20, T20, D18",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 155,
+        "primary": "T20, T19, D19",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 154,
+        "primary": "T20, T18, D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": "Here's a tip you can use in many situations, lets say you hit a S20 with the first dart, from 134 you might as well go back at the T20. And lets say you hit a S20 again, now your on 114 with one dart. Instead of going back to the T20 try the DB it's just as good as a T20, but a single bull gets you under 90 for your next shot (89), a much higher percentage out than 94."
+    },
+    {
+        "out": 153,
+        "primary": "T20, T19, D18",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 152,
+        "primary": "T20, T20, D16",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 151,
+        "primary": "T20, T17, D20",
+        "secondary": "T19, T18, D20",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 150,
+        "primary": "T20, T18, D18",
+        "secondary": "T19, T19, D18",
+        "tertiary": "DB, DB, DB",
+        "details": ""
+    },
+    {
+        "out": 149,
+        "primary": "T20, T19, D16",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 148,
+        "primary": "T20, T20, D14",
+        "secondary": "T19, T17, D20",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 147,
+        "primary": "T20, T17, D18",
+        "secondary": "T19, T18, D18",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 146,
+        "primary": "T20, T18, D16",
+        "secondary": "T19, T19, D16",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 145,
+        "primary": "T20, T19, D14",
+        "secondary": "T20, T15, D20",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 144,
+        "primary": "T20, T20, D12",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 143,
+        "primary": "T20, T17, D16",
+        "secondary": "T19, T18, D16",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 142,
+        "primary": "T20, T14, D20",
+        "secondary": "T19, T19, D14",
+        "tertiary": "T20, DB, D16",
+        "details": ""
+    },
+    {
+        "out": 141,
+        "primary": "T20, T19, D12",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 140,
+        "primary": "T20, T20, D10",
+        "secondary": "",
+        "tertiary": "",
+        "details": "Don't be tempted to go at the T18 or T16 with the second dart trying to leave yourself on D16 or D8, if you stay on the 20's you can leave yourself at 40 for your next shot."
+    },
+    {
+        "out": 139,
+        "primary": "T20, T13, D20",
+        "secondary": "T20, T19, D11",
+        "tertiary": "",
+        "details": "This is the common way to take this out, but you might try T20, T19, D11 for the same reason explained in 140, if you miss the second triple and hit a S19 you still have a chance to leave yourself on 40 for your next shot."
+    },
+    {
+        "out": 138,
+        "primary": "T19, T19, D12",
+        "secondary": "T20, T18, D12",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 137,
+        "primary": "T20, T19, D10",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 136,
+        "primary": "T20, T20, D8",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 135,
+        "primary": "T20, T17, D12",
+        "secondary": "DB, T15, D20",
+        "tertiary": "SB, T20, DB",
+        "details": "The bull route may or may not be the best way to go for you individualy, but it does offer a higher percent checkout on the same turn if you miss with the first dart and hit a SB."
+    },
+    {
+        "out": 134,
+        "primary": "T20, T16, D13",
+        "secondary": "",
+        "tertiary": "",
+        "details": "This has the safety valve of hitting the T8 on the second dart to leave DB!"
+    },
+    {
+        "out": 133,
+        "primary": "T20, T19, D8",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 132,
+        "primary": "T20, T16, D12",
+        "secondary": "DB, DB, D16",
+        "tertiary": "SB, T19, DB",
+        "details": "The bull route may or may not be the best way to go for you individualy, but it does offer a higher percent checkout on the same turn if you miss with the first dart and hit a SB."
+    },
+    {
+        "out": 131,
+        "primary": "T19, T14, D16",
+        "secondary": "T20, T13, D16",
+        "tertiary": "",
+        "details": "T19, T14, D16 has a slightly higher chance of it being taken out because if you happen to catch a T7 while going at the T19 you are still on the two dart out 110! Take every opportunity the board gives you."
+    },
+    {
+        "out": 130,
+        "primary": "T20, T20, D5",
+        "secondary": "",
+        "tertiary": "",
+        "details": "If you miss the first triple you still have another chance because 110 is a two dart out, and you go right back at the T20. If either of the first two darts hits the T20 your on an out!"
+    },
+    {
+        "out": 129,
+        "primary": "T19, T16, D12",
+        "secondary": "T20, T19, D6",
+        "tertiary": "",
+        "details": "Our normal strategy tells us that the proper first dart is T19, so that if you only hit a single, you will still be on a two dart out 110, but the T19 only gets you to 72 (above 70) and you will still have to hit another triple to get to an out. A T20 will get you to 69 (below 70) and allow you to get to an out without having to hit another triple, but the S20 leaves you on 109, which can't be taken out with two darts. So you can go T19, T16, D12 or T20, T19, D6 both have disadvantages."
+    },
+    {
+        "out": 128,
+        "primary": "T18, T14, D16",
+        "secondary": "T20, T18, D7",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 127,
+        "primary": "T20, T17, D8",
+        "secondary": "",
+        "tertiary": "",
+        "details": "A S20 on the first dart still leaves you on a two dart out 107. Going at T17 with the first dart may give you a two dart out 110, but the T17 won't get you to 70 or less."
+    },
+    {
+        "out": 126,
+        "primary": "T19, T19, D6",
+        "secondary": "T19, S19, DB",
+        "tertiary": "",
+        "details": "Throw the first two darts at the T19, even if you hit a single with the first dart, you will be on 107, which is T19, DB. If you hit the first triple you'll be on 69 which is T19, D6."
+    },
+    {
+        "out": 125,
+        "primary": "T18, T19, D7",
+        "secondary": "T20, T15, D10",
+        "tertiary": "DB, T20, D20",
+        "details": ""
+    },
+    {
+        "out": 124,
+        "primary": "T20, T14, D11",
+        "secondary": "",
+        "tertiary": "",
+        "details": "If you miss the first dart, you still have T18, DB, if you hit the first but miss the second dart you have the DB."
+    },
+    {
+        "out": 123,
+        "primary": "T19, T16, D9",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 122,
+        "primary": "T18, T18, D7",
+        "secondary": "S18, T18, DB",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 121,
+        "primary": "T20, T11, D14",
+        "secondary": "T17, T20, D5",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 120,
+        "primary": "T20, S20, D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 119,
+        "primary": "T19, T12, D13",
+        "secondary": "T20, S19, D20",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 118,
+        "primary": "T20, S18, D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": "There is a temptation here to go at the T18 with the first dart, to leave yourself on 100 if you miss, taking out a 58 with two darts is much easier than 62."
+    },
+    {
+        "out": 117,
+        "primary": "T20, S17, D20",
+        "secondary": "T19, S20, D20",
+        "tertiary": "",
+        "details": "If you miss the first dart you still have 97 (T19, D20). There is also T19, S20, D20 the advantage here is the 7 is right next to the 19 and if you miss the first dart left, your still on a two dart out of 110, a 5 or a 1 will kill your chances of taking it out on this turn. The disadvantage is the S19 on the first dart leaves a difficult 98, and leaving yourself on 60 with two darts means you take the risk of busting trying to only hit a S20. I've seen it happen many times. Also stay away from the T17 on the first dart, the S17 leaves a nice 100 two dart out, but taking out a 66 with two darts is much tougher than either a 57 or 60."
+    },
+    {
+        "out": 116,
+        "primary": "T19, S19, D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": "This one is much like the 126 out, all you need is at least one T19 with your first two darts and your on an out. A S19 on the first dart leaves 97 (T19, D20). Here is an added plus to this out, both triples on either side of the T19 will also put you on a two dart out! T20, S16, D20 is also not bad, but I like being able to throw two darts at the same number if I can."
+    },
+    {
+        "out": 115,
+        "primary": "T19, S18, D20",
+        "secondary": "T20, S15, D20",
+        "tertiary": "",
+        "details": "The advantage to the first out is if you hit a single with the first dart, 96 (T20, D18) seems to be easier than 95 (T19, D19) for most people. The advantage to the second out is, if you miss to the left with the first dart the S5 or T5 will also put you on a two dart out."
+    },
+    {
+        "out": 114,
+        "primary": "T20, S14, D20",
+        "secondary": "T19, S17, D20",
+        "tertiary": "",
+        "details": "The second choice here has the advantage of still having a two dart out if you happen to catch a S7 with your first dart."
+    },
+    {
+        "out": 113,
+        "primary": "T19, S16, D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": "The S3 and the T3 can save you here."
+    },
+    {
+        "out": 112,
+        "primary": "T20, T12, D8",
+        "secondary": "",
+        "tertiary": "",
+        "details": "A S12 with the second dart puts you on D20. Don't be tempted to go at the S20, D16 when faced with a 52, the T20 will pop up when you least expect it."
+    },
+    {
+        "out": 111,
+        "primary": "T20, S11, D20",
+        "secondary": "T19, S14, D20",
+        "tertiary": "",
+        "details": "With this first option there is a temptation to go at the S19 with the second dart to leave 32, but the T19 will bust. There is a huge difference between taking a number out with three darts as opposed to two darts. Many times it calls for a completely different strategy."
+    },
+    {
+        "out": 110,
+        "primary": "T20, T10, D10",
+        "secondary": "T19, S13, D20",
+        "tertiary": "T20, DB",
+        "details": "If you hit a S10 with the second dart you're left with D20. T19, S13, D20 has a safety valve on T19, the S3 or T3 still puts you on a two dart out."
+    },
+    {
+        "out": 109,
+        "primary": "T20, S9, D20",
+        "secondary": "T19, T12, D8",
+        "tertiary": "",
+        "details": "T20, S9, D20 both the T9 and S9 puts you on an out from 49, the T17 will bust. The advantage here is the safety valve of a missed S5 on the first dart to give you the two dart 104."
+    },
+    {
+        "out": 108,
+        "primary": "T20, S16, D16",
+        "secondary": "",
+        "tertiary": "",
+        "details": "This is a pretty good out the only thing that can hurt you is the T16 second dart. When throwing at the S16 remember that the D16, D8, S8, and T8 all put you on an out from the two dart 48. Many people use the trick of aiming for the wire between the S8 and S16."
+    },
+    {
+        "out": 107,
+        "primary": "T19, T10, D10",
+        "secondary": "T19, DB",
+        "tertiary": "",
+        "details": "This out has the advantage of the missed dart S7 and S3 on the first dart to still give you two dart outs."
+    },
+    {
+        "out": 106,
+        "primary": "T20, T10, D8",
+        "secondary": "",
+        "tertiary": "",
+        "details": "This one is good because it has a safety missed S5 on the first dart. And on the second dart, no matter what you hit in the 10 or 6 sections give you an out."
+    },
+    {
+        "out": 105,
+        "primary": "T20, S13, D16",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 104,
+        "primary": "T19, S15, D16",
+        "secondary": "T18, S18, D16",
+        "tertiary": "T18, DB",
+        "details": ""
+    },
+    {
+        "out": 103,
+        "primary": "T19, S10, D16",
+        "secondary": "T19, S6, D20",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 102,
+        "primary": "T20, S10, D16",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 101,
+        "primary": "T20, S9, D16",
+        "secondary": "T19, T12, D4",
+        "tertiary": "",
+        "details": "Never throw T17 with the first dart on a 3 dart 101, the S2 will kill you, that is only a two dart throw."
+    },
+    {
+        "out": 100,
+        "primary": "T20, D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": "Warning: stay away from the S1 on the first dart, it's a game blower."
+    },
+    {
+        "out": 99,
+        "primary": "T19, S10, D16",
+        "secondary": "S19, T16, D16",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 98,
+        "primary": "T20, D19",
+        "secondary": "S20, T18, D12",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 97,
+        "primary": "T19, D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 96,
+        "primary": "T20, D18",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 95,
+        "primary": "T19, D19",
+        "secondary": "SB, T20, D5",
+        "tertiary": "",
+        "details": "A S20 second dart leaves DB. This second option is tough but you don't have to hit a triple, also it turns this out from a two dart out into a three dart out."
+    },
+    {
+        "out": 94,
+        "primary": "T18, D20",
+        "secondary": "SB, T19, D6",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 93,
+        "primary": "T19, D18",
+        "secondary": "SB, T18, D7",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 92,
+        "primary": "T20, D16",
+        "secondary": "SB, T17, D8",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 91,
+        "primary": "T17, D20",
+        "secondary": "SB, T16, D9",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 90,
+        "primary": "T20, D15",
+        "secondary": "T18, D18",
+        "tertiary": "DB, D20",
+        "details": "A S20 on the first dart gets you to 70 (T20, D5), a S20 on the second dart gives you DB."
+    },
+    {
+        "out": 89,
+        "primary": "T19, D16",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 88,
+        "primary": "T20, D14",
+        "secondary": "",
+        "tertiary": "",
+        "details": "Never go T16 with the first dart here the S16 won't get you to 70 or less."
+    },
+    {
+        "out": 87,
+        "primary": "T17, D18",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 86,
+        "primary": "T18, D16",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 85,
+        "primary": "T19, D14",
+        "secondary": "T15, D20",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 84,
+        "primary": "T20, D12",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 83,
+        "primary": "T17, D16",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 82,
+        "primary": "T14, D20",
+        "secondary": "DB, D16",
+        "tertiary": "",
+        "details": "T14, D20 is the best way to go if you have only two darts in your hand, but if you have all three darts you may want to try DB, D16 if you can at least catch a SB, it brings you to 57, an easy S17, D20!"
+    },
+    {
+        "out": 81,
+        "primary": "T19, D12",
+        "secondary": "T15, D18",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 80,
+        "primary": "T20, D10",
+        "secondary": "T16, D16",
+        "tertiary": "",
+        "details": "At this point you are an easy two S20's away from the D20. Don't be tempted to go at the T16, D16 a S16 on the first dart means you have to hit a triple or finish with a DB."
+    },
+    {
+        "out": 79,
+        "primary": "T19, D11",
+        "secondary": "T13, D20",
+        "tertiary": "",
+        "details": "The common out here is T13, D20. The higher percentage shot is T19, D11 the S19 gets you to 60 which is far easier to take out than a 66."
+    },
+    {
+        "out": 78,
+        "primary": "T18, D12",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 77,
+        "primary": "T19, D10",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 76,
+        "primary": "T16, D14",
+        "secondary": "T20, D8",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 75,
+        "primary": "T17, D12",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 74,
+        "primary": "T16, D13",
+        "secondary": "",
+        "tertiary": "",
+        "details": "For the 3 dart-out this is good because all the numbers around the T16 are big enough to get you below 70. And for the two dart-out its good because the T8 also puts you on an out, DB."
+    },
+    {
+        "out": 73,
+        "primary": "T19, D8",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 72,
+        "primary": "T16, D12",
+        "secondary": "T20, D6",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 71,
+        "primary": "T13, D16",
+        "secondary": "T19, D7",
+        "tertiary": "",
+        "details": "T19, D7 with two darts in hand, because if you catch a T7 it still gets you to DB!"
+    },
+    {
+        "out": 70,
+        "primary": "T18, D8",
+        "secondary": "T20, D5",
+        "tertiary": "",
+        "details": "T20, D5 with two darts in hand, because if you catch a S20 it still gets you to DB!"
+    },
+    {
+        "out": 69,
+        "primary": "T19, D6",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 68,
+        "primary": "T16, D10",
+        "secondary": "T18, D7",
+        "tertiary": "",
+        "details": "T18, D7 with two darts in hand, because if you catch a S18 it still gets you to DB!"
+    },
+    {
+        "out": 67,
+        "primary": "T17, D8",
+        "secondary": "T9, D20",
+        "tertiary": "",
+        "details": "If you have all three you may want to try T9, D20 like the T16 it has all large numbers around it guaranteeing you to get below 60, a lot better than catching a S2 or a S3 going at the T17."
+    },
+    {
+        "out": 66,
+        "primary": "T10, D18",
+        "secondary": "T18, D15",
+        "tertiary": "T16, D9",
+        "details": ""
+    },
+    {
+        "out": 65,
+        "primary": "T11, D16",
+        "secondary": "T19, D4",
+        "tertiary": "T15, D10",
+        "details": "The T11 has numbers around it that will make sure you get below 60 for the second dart."
+    },
+    {
+        "out": 64,
+        "primary": "T16, D8",
+        "secondary": "T14, D11",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 63,
+        "primary": "T17, D6",
+        "secondary": "T13, D12",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 62,
+        "primary": "T10, D16",
+        "secondary": "T12, D13",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 61,
+        "primary": "T15, D8",
+        "secondary": "T11, D14",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 60,
+        "primary": "S20, D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 59,
+        "primary": "S19, D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 58,
+        "primary": "S18, D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 57,
+        "primary": "S17, D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 56,
+        "primary": "S16, D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 55,
+        "primary": "S15, D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 54,
+        "primary": "S14, D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 53,
+        "primary": "S13, D20",
+        "secondary": "S17, D18",
+        "tertiary": "",
+        "details": "This second choice is good if you only have two darts, because a miss S3 leaves DB! From this point on you may want to throw your first dart at a number that will put you on D16, but if you only have two darts make sure you take the route that has a safety valve."
+    },
+    {
+        "out": 52,
+        "primary": "S12, D20",
+        "secondary": "S20, D16",
+        "tertiary": "",
+        "details": "Stay away from the S20, D16 it's too easy to bust."
+    },
+    {
+        "out": 51,
+        "primary": "S11, D20",
+        "secondary": "S15, D18",
+        "tertiary": "S19, D16",
+        "details": "Don't let the T19 bust you, though."
+    },
+    {
+        "out": 50,
+        "primary": "S10, D20",
+        "secondary": "S18, D16",
+        "tertiary": "",
+        "details": "Don't let the T18 bust you, though."
+    },
+    {
+        "out": 49,
+        "primary": "S9, D20",
+        "secondary": "S17, D16",
+        "tertiary": "",
+        "details": "Don't let the T17 bust you, though."
+    },
+    {
+        "out": 48,
+        "primary": "S16, D16",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 47,
+        "primary": "S15, D16",
+        "secondary": "S7, D20",
+        "tertiary": "S19, D14",
+        "details": ""
+    },
+    {
+        "out": 46,
+        "primary": "S6, D20",
+        "secondary": "S10, D18",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 45,
+        "primary": "S13, D16",
+        "secondary": "S19, D16",
+        "tertiary": "S7, D19",
+        "details": ""
+    },
+    {
+        "out": 44,
+        "primary": "S12, D16",
+        "secondary": "S4, D20",
+        "tertiary": "S18, D13",
+        "details": ""
+    },
+    {
+        "out": 43,
+        "primary": "S11, D16",
+        "secondary": "S3, D20",
+        "tertiary": "S19, D12",
+        "details": ""
+    },
+    {
+        "out": 42,
+        "primary": "S10, D16",
+        "secondary": "S6, D18",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 41,
+        "primary": "S9, D16",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 40,
+        "primary": "D20",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 39,
+        "primary": "S7, D16",
+        "secondary": "S3, D18",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 38,
+        "primary": "D19",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 37,
+        "primary": "S5, D16",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 36,
+        "primary": "D18",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 35,
+        "primary": "S3, D16",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 34,
+        "primary": "D17",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 33,
+        "primary": "S1, D16",
+        "secondary": "S17, D8",
+        "tertiary": "S3, D15",
+        "details": ""
+    },
+    {
+        "out": 32,
+        "primary": "D16",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 31,
+        "primary": "S15, D8",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 30,
+        "primary": "D15",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 29,
+        "primary": "S13, D8",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 28,
+        "primary": "D14",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 27,
+        "primary": "S19, D4",
+        "secondary": "S7, D10",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 26,
+        "primary": "D13",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 25,
+        "primary": "S17, D4",
+        "secondary": "S9, D8",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 24,
+        "primary": "D12",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 23,
+        "primary": "S7, D8",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 22,
+        "primary": "D11",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 21,
+        "primary": "S5, D8",
+        "secondary": "S17, D2",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 20,
+        "primary": "D10",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 19,
+        "primary": "S11, D4",
+        "secondary": "S3, D8",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 18,
+        "primary": "D9",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 17,
+        "primary": "S9, D4",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 16,
+        "primary": "D8",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 15,
+        "primary": "S7, D4",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 14,
+        "primary": "D7",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 13,
+        "primary": "S5, D4",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 12,
+        "primary": "D6",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 11,
+        "primary": "S3, D4",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 10,
+        "primary": "D5",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 9,
+        "primary": "S1, D4",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 8,
+        "primary": "D4",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 7,
+        "primary": "S3",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 6,
+        "primary": "D3",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 5,
+        "primary": "S1, D2",
+        "secondary": "S3, D1",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 4,
+        "primary": "D2",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 3,
+        "primary": "S1, D1",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    },
+    {
+        "out": 2,
+        "primary": "D1",
+        "secondary": "",
+        "tertiary": "",
+        "details": ""
+    }
+]

@@ -1,0 +1,288 @@
+[
+    {
+        "name": "Around the Compass",
+        "slug": "around-the-compass",
+        "targets": "Any numbers needed.",
+        "goal": "Check out 24 as many times as possible in 3 darts over 20 turns.",
+        "instructions": "You have 20 turns (60 darts) to finish 24 using any combination but always finishing on a double. Each time you complete the finish during a turn you receive 5 points. 15 points are possible every turn and 300 points are possible for this routine.",
+        "skills": [
+            {
+                "name": "Checkouts",
+                "slug": "checkouts"
+            }
+        ]
+    },
+    {
+        "name": "Bully Bully",
+        "slug": "bully-bully",
+        "targets": "Bulls & Bullseyes.",
+        "goal": "Hit as many Bulls as possible in 20 turns.",
+        "instructions": "You have 20 turns (60 darts) at Bullseye. You receive 5 points for each Bullseye hit and 2 points for each Single Bull hit. You also receive a 10 point bonus for hitting a hat trick (3 Bullseyes in one visit). No points are received for any dart landing outside of the Single Bull. 25 points are possible every 3 darts and 500 points are possible for this routine.",
+        "skills": [
+            {
+                "name": "Targeting",
+                "slug": "targeting"
+            }
+        ]
+    },
+    {
+        "name": "Count Up",
+        "slug": "count-up",
+        "targets": "Any number on the board.",
+        "goal": "Score as many points as possible in 8 turns to the board.",
+        "instructions": "Each turn to the board, try to score as many points as possible with 3 darts. i.e. 3 Triple 20's scores 180 points. The highest possible score is 1,440. Good Luck!",
+        "skills": [
+            {
+                "name": "Fun",
+                "slug": "fun"
+            }
+        ]
+    },
+    {
+        "name": "Double Trouble",
+        "slug": "double-trouble",
+        "targets": "Double 1 - Double 20 and the Bullseye",
+        "goal": "The goal of this routine is to hit every double on the board as many times as possible.",
+        "instructions": "Throw 3 darts at each double in order. i.e. 3 at D1, 3 at D2, etc. You receive 5 points for each double you hit, 15 points are available every turn (3 darts). 315 points are possible in total for this routine.",
+        "skills": [
+            {
+                "name": "Doubles",
+                "slug": "doubles"
+            }
+        ]
+    },
+    {
+        "name": "Doubles",
+        "slug": "doubles",
+        "targets": "Double 1 - Double 20 and the Bullseye",
+        "goal": "The goal of this routine is to hit every double on the board in as few darts as possible.",
+        "instructions": "Start on Double 1 and throw until you hit it. Once you hit it move on to the Double 2, then to Double 3, etc. The routine ends when you hit the Bullseye. Count how many darts it takes you to hit all 21 targets. This routine can take a while so make sure you have time to dedicate to it. If you find yourself struggling with any particular double, it is ok to skip it and come back to it later. Don't cheat yourself by counting doubles that you are not trying to hit, though.",
+        "skills": [
+            {
+                "name": "Doubles",
+                "slug": "doubles"
+            }
+        ]
+    },
+    {
+        "name": "Eagle's Eye",
+        "slug": "eagles-eye",
+        "targets": "Bull & Bullseye",
+        "goal": "Score as many points as possible in 10 turns (30 darts) using only the Bull and Bullseye.",
+        "instructions": "Throw all three darts at the Bull or Bullseye. Score the number of Bulls/Bullseyes hit. i.e. 2 Bulls and 1 Bullseye would score 100 points. The highest possible score is 1,050. Good Luck!",
+        "skills": [
+            {
+                "name": "Fun",
+                "slug": "fun"
+            }
+        ]
+    },
+    {
+        "name": "Eight Threw",
+        "slug": "eight-threw",
+        "targets": "Any numbers needed.",
+        "goal": "Check out 82 as many times as possible in 3 darts over 20 turns.",
+        "instructions": "You have 20 turns (60 darts) to check out 82 as many times as possible. You receive 10 points every time you check out 82 in 3 darts and a 10 point bonus if you do so in 2 darts. 20 points are possible every visit and 400 points are possible for this routine.",
+        "skills": [
+            {
+                "name": "Checkouts",
+                "slug": "checkouts"
+            }
+        ]
+    },
+    {
+        "name": "Fifty-One",
+        "slug": "fifty-one",
+        "targets": "Triple 1 - Triple 20",
+        "goal": "The goal of this routine is to hit as many of each triple as you can resulting in the highest score possible (scores can, and often end up negative).",
+        "instructions": "You start with 51 points. Each turn up you throw all three darts trying to hit your target triple. Your first turn is at Triple 1, followed by another turn at Triple 2, etc. Targets must be taken in sequential order 1 - 20. Triples hit that are not your target count as a miss.\r\rEach time you hit a triple, it's value is added to your total score. If you miss the triple with all three darts the value of the triple is subtracted from the total score.\r\rExample: You are on 51 points, and have just thrown three darts at Triple 1. If you hit two Triple 1's your score is increased by 6 (the value of the triple per dart that hit it) to 57. If you missed Triple 1, then your score is reduced by 3 (the value of the triple) to 48. Your next turn up you are throwing at Triple 2. Assuming you start this turn with 57, you hit 3 Triple 2's your score is increased by 18 (the value of the triple per dart that hit it) to 75. If you miss Triple 2 then your score is reduced by 6 (the value of the triple) to 51.",
+        "skills": [
+            {
+                "name": "Triples",
+                "slug": "triples"
+            }
+        ]
+    },
+    {
+        "name": "Flight School",
+        "slug": "flight-school",
+        "targets": "Min: Favorite Double, T20, Next Favorite Double\r\rMax: Add as many targets as you'd like",
+        "goal": "The goal of this routine is to hit each of your chosen targets 5 times in under 45 minutes.",
+        "instructions": "Start by shooting at your favorite double. If any of your three darts hit it throw your remaining darts at the next target. On your next turn throw at the target you were on. If you hit it move onto the next target. Until the end of the routine you will not throw more than 5 darts at any one target. Never throw more than 5 darts at the same target and move to the next target as soon as you hit the target you are aiming at. Continue through the process until you hit all of your chosen targets 5 times. This is a timed process. Record the time it takes you to complete the routine. As you get better you will need to add targets to your list. If you are consistently and easily finishing the routine in well under 45 minutes then you should definitely add targets to your list. You want to have enough targets so that you are pushing the 45 minute boundary. If you go over 45 minutes, don't get discouraged, record that time and if you are consistently running into this issue then simply remove a target or two from your list until you are able to get back to where you feel you should be.\r\rExample: Your targets are D16, T20, D20. You start by throwing at the D16. Your first dart misses. Throw at the D16 again. Your second dart hits it. Throw your third dart at the T20. Your third dart misses. On your next turn you start with the T20 since you did not hit it with your last dart. All three darts miss. Your next turn up you throw at D20. And so on.",
+        "skills": [
+            {
+                "name": "Targeting",
+                "slug": "targeting"
+            }
+        ]
+    },
+    {
+        "name": "Half It",
+        "slug": "half-it",
+        "targets": "15, 16, Double, 17, 18, Triple, 19, 20, Bull. In that order.",
+        "goal": "Hit as many of the target number as possible in one turn (3 darts).",
+        "instructions": "To begin throw three darts at the board to set your starting score.\r\rFor each target throw 3 darts trying to score as many points as possible on that particular target. For the Double and Triple targets you can score on any Double or Triple. If you miss the target with all three darts then your score will be cut in half. The routine is over after you've thrown 3 darts at every target. The lowest score possible is a 1. The highest score possible is 1,425.",
+        "skills": [
+            {
+                "name": "Fun",
+                "slug": "fun"
+            }
+        ]
+    },
+    {
+        "name": "Multiple Count Up",
+        "slug": "multiple-count-up",
+        "targets": "Any number on the board.",
+        "goal": "Score as many points as possible in 8 turns (24 darts) to the board.",
+        "instructions": "Each turn to the board, try to score as high as possible with 3 darts. The first dart scores as Number Hit x1. The second dart scores as Number Hit x2. The third dart scores as Number Hit x3. i.e. Dart 1 hits 20, 20 points. Dart 2 hits T20, +180 points. Dart 3 hits D1, +6 points. The highest possible score is 2,880. Good Luck!",
+        "skills": [
+            {
+                "name": "Fun",
+                "slug": "fun"
+            }
+        ]
+    },
+    {
+        "name": "Pro Doubles",
+        "slug": "pro-doubles",
+        "targets": "Double 1 - Double 20 and the Bullseye",
+        "goal": "The goal of this routine is to hit every double on the board in as few darts as possible.",
+        "instructions": "Start by throwing 1 dart at Double 1. Whether you hit it or not, throw your next dart at Double 2. Then throw your third dart at Double 3. If you hit any of these your next turn will start with the doubles you missed and end with the next number. For example, you miss the Double 1, hit the Double 2 and miss the Double 3. Your next turn would be at Double 1, Double 3, Double 4. Proceed this way, never throwing more than one dart at a target per turn, until you have hit all 21 targets. Toward the end of the routine it is ok to throw more than one dart at the same target. If there are only two targets left then naturally you will have to throw two darts at the same target.\r\rThis routine focuses on switching targets to go out that are at different locations on the dart board.",
+        "skills": [
+            {
+                "name": "Doubles",
+                "slug": "doubles"
+            }
+        ]
+    },
+    {
+        "name": "Route 64",
+        "slug": "route-sixty-four",
+        "targets": "Any numbers needed.",
+        "goal": "Check out 64 as many times as possible in 3 darts over 20 turns.",
+        "instructions": "You have 20 turns (60 darts) to check out 64 as many times as possible. You receive 10 points every time you check out 64 in 3 darts and a 10 point bonus if you do so in 2 darts. 20 points are possible every visit and 400 points are possible for this routine.",
+        "skills": [
+            {
+                "name": "Checkouts",
+                "slug": "checkouts"
+            }
+        ]
+    },
+    {
+        "name": "Shanghai Nights",
+        "slug": "shanghai-nights",
+        "targets": "Any numbers needed.",
+        "goal": "Check out 120 on a double in 3 darts.",
+        "instructions": "You have 20 turns (60 darts) to check out 120 as many times as possible. You receive 10 points every time you check out 120 and a 10 point bonus if you complete the finish on three D20's. 20 points are possible every visit and 400 points are possible for this routine.",
+        "skills": [
+            {
+                "name": "Checkouts",
+                "slug": "checkouts"
+            }
+        ]
+    },
+    {
+        "name": "Shoot Out",
+        "slug": "shoot-out",
+        "targets": "1-20 and Bull/Bullseye.",
+        "goal": "Score as many points as possible on numbers previously not hit.",
+        "instructions": "Over 8 turns (24 darts) try to hit each number on the board. Each number can only be hit once. Once a number is hit it is opened and can no longer be scored. Your score is calculated as \"Number Hit\" X \"Single/Double/Triple\" X \"Number of Opened Areas\". So, if your first three darts were T1,D2,S3, in that order, your score would be 1x3x1=3, 2x2x2=8, 3x1x3=9, making your total score for the round 18 (3+8+9). If you hit a T20 with 5 open targets, your score for that dart would be 20x3x5, resulting in 300 points added to your score. It sounds more complicated than it is. The closer toward the end of the game, the better chance for higher scoring. The multipliers may become 20 times or more toward the end of the game, so the trick is to aim at the lower numbers when the multipliers are low at the beginning; and reserve the higher numbers for the larger multipliers at the end. If you hit all 21 targets before you throw 24 darts you will be awarded with a Bull Bonus Round where you can score more points by hitting the Bull/Bullseye with your remaining darts.",
+        "skills": [
+            {
+                "name": "Fun",
+                "slug": "fun"
+            }
+        ]
+    },
+    {
+        "name": "Sweet 16",
+        "slug": "sweet-sixteen",
+        "targets": "Any numbers needed.",
+        "goal": "Check out 32 as many times as possible in 3 darts over 20 turns.",
+        "instructions": "You have 20 turns (60 darts) to check out 32. You receive 5 points every time you finish 32. i.e. If you hit 3 D16's in one turn you would receive 15 points. A D16 and then a S16,D8 would result in 10 points since you checked out 32 twice. 15 points are possible each turn and 300 points are possible for this routine.",
+        "skills": [
+            {
+                "name": "Checkouts",
+                "slug": "checkouts"
+            }
+        ]
+    },
+    {
+        "name": "Switch Hitter",
+        "slug": "switch-hitter",
+        "targets": "Triple 19.",
+        "goal": "Hit as many T19's as possible in 60 darts.",
+        "instructions": "Throw 60 darts at T19. You receive 5 points for each T19 hit, 3 points for each D19 and 2 points for each S19. You also receive a 10 point bonus for hitting a 171 (3 T19's in one turn). 25 points are possible every 3 darts and 500 points are possible for this routine.",
+        "skills": [
+            {
+                "name": "Triples",
+                "slug": "triples"
+            }
+        ]
+    },
+    {
+        "name": "Tons Up",
+        "slug": "tons-up",
+        "targets": "Any numbers needed.",
+        "goal": "Check out 100 with a double in 3 darts or less over 20 turns.",
+        "instructions": "You have 20 turns (60 darts) to check out 100. You receive 10 points every time you check out 100 and a 10 point bonus if you do so in 2 darts. 20 points are possible every visit and 400 points are possible for this routine.",
+        "skills": [
+            {
+                "name": "Checkouts",
+                "slug": "checkouts"
+            }
+        ]
+    },
+    {
+        "name": "Tops and Tens",
+        "slug": "tops-and-tens",
+        "targets": "Double 20, Double 10 or Double 5",
+        "goal": "Try to finish 40 on a D20, D10 or D5 as many times as possible in one visit to the oche.",
+        "instructions": "You have 20 turns (60 darts) to check out 40 on D20, D10 or D5. i.e. If you hit 3 D20's in one visit you would receive 15 points. A D20 then a S20,D10 would result in 10 points since you checked out 40 twice. 15 points are possible each turn and 300 points for points are possible for this routine.",
+        "skills": [
+            {
+                "name": "Checkouts",
+                "slug": "checkouts"
+            }
+        ]
+    },
+    {
+        "name": "Trebles for Show",
+        "slug": "trebles-for-show",
+        "targets": "Triple 20.",
+        "goal": "Hit as many T20's as possible in 60 darts.",
+        "instructions": "Throw 60 darts at T20. You receive 5 points for each T20 hit, 3 points for each D20 and 2 points for each S20. You also receive a 15 point bonus for hitting a 180 (3 T20's in one turn). 30 points are possible every 3 darts and 600 points are possible for this routine.",
+        "skills": [
+            {
+                "name": "Triples",
+                "slug": "triples"
+            }
+        ]
+    },
+    {
+        "name": "Twenty-Seven",
+        "slug": "twenty-seven",
+        "targets": "Double 1 - Double 20 and the Bullseye",
+        "goal": "The goal of this routine is to hit as many of each double as you can resulting in the highest score possible (scores can, and often end up negative).",
+        "instructions": "You start with 27 points. Each turn up you throw all three darts trying to hit your target double. Your first turn is at Double 1, followed by another turn at Double 2, etc. Targets must be taken in sequential order 1 - 20, Bull. Doubles hit that are not your target count as a miss.\r\rEach time you hit a double, it's value is added to your total score. If you miss the double with all three darts the value of the double is subtracted from the total score. Ex: You are on 27 points, and have just thrown three darts at Double 1. If you hit two Double 1's your score is increased by 4 (the value of the double per dart that hit it) to 31. If you missed Double 1, then your score is reduced by 2 (the value of the double) to 25. Your next turn up you are throwing at Double 2. Assuming you start this turn with 31, you hit 3 Double 2's your score is increased by 12 (the value of the double per dart that hit it) to 43. If you miss Double 2 then your score is reduced by 4 (the value of the double) to 27.",
+        "skills": [
+            {
+                "name": "Doubles",
+                "slug": "doubles"
+            }
+        ]
+    },
+    {
+        "name": "Two Dart Combinations",
+        "slug": "two-dart-combinations",
+        "targets": "Any numbers required.",
+        "goal": "Check out each finish from 41 to 60 in 3 darts or less.",
+        "instructions": "You have just 1 turn (3 darts) at each checkout from 41 to 60 which you must finish on a double with any combination you wish. You receive 15 points for each checkout you complete. 15 points are possible every 3 darts and 300 points are possible for this routine.",
+        "skills": [
+            {
+                "name": "Checkouts",
+                "slug": "checkouts"
+            }
+        ]
+    }
+]
